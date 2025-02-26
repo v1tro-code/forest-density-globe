@@ -1,0 +1,28 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "United States",
+        "code": "USA"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [-125.0, 48.0],
+              [-125.0, 25.0],
+              [-65.0, 25.0],
+              [-65.0, 48.0],
+              [-125.0, 48.0]
+            ]
+          ]
+        ]
+      }
+    }
+    // ... más países aquí
+  ]
+}
+

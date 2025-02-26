@@ -1,0 +1,17 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Afghanistan"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [[[[61.21, 36.56], [61.21, 37.37], [62.21, 37.37], [62.21, 36.56], [61.21, 36.56]]]]
+      }
+    }
+    // ... (Add more country features here)
+  ]
+}
+
